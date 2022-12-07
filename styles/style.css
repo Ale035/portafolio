@@ -75,7 +75,7 @@ html{
 	background-color: #fff;
 	border: 2px solid #fff;
 	border-radius: 50px;
-	height: 7vh;
+	height: 2.5em;
 	transition: .5s;
 }
 
@@ -83,7 +83,7 @@ html{
 	background-color: #009CCF;
 	border: 2px solid #009CCF;
 	border-radius: 50px;
-	height: 7vh;
+	height: 2.5em;
 }
 
 
@@ -100,15 +100,15 @@ html{
 }
 
 #inicio .contenido .presentacion .bienvenida{
-	font-size: 20px;
-	margin-top: 60px;
+	font-size: 1.5em;
+	margin-top: 20vh;
 	margin-bottom: 15px;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 }
 
 #inicio .contenido .presentacion h2{
-	font-size: 55px;
+	font-size: 3em;
 	margin-bottom: 25px;
 	text-align: center;
 }
@@ -154,7 +154,7 @@ html{
 	background-color: #fff;
 	border: 2px solid #fff;
 	border-radius: 50px;
-	height: 7vh;
+	height: 2.5em;
 	transition: .5s;
 }
 
@@ -162,7 +162,7 @@ html{
 	background-color: #009CCF;
 	border: 2px solid #009CCF;
 	border-radius: 50px;
-	height: 7vh;
+	height: 2.5em;
 }
 
 
